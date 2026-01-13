@@ -15,7 +15,7 @@ To start you off, disabling *Video Cutscenes* should be simple, simply delete th
 Same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file.
 
 ## Softcoding (.lua/.hx)
-For this you can head over to [the wiki](https://shadowmario.github.io/psychengine.lua)
+For this you can head over to [the wiki](https://shadowmario.github.io/psychengine.lua) (this is the psych engine wiki, as this is based off of psych engine. we may eventually create our own wiki if needed)
 
 There you can learn how to use the 212 PlayState funcions in your mod!
 
@@ -24,6 +24,7 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 * Riveren - Main Artist/Animator of Psych Engine.
 
 ### Special Thanks
+* plasticocelot - Creator
 * bbpanzu - Ex-Team Member (Programmer).
 * crowplexus - HScript Iris, Input System v3, and Other PRs.
 * Kamizeta - Creator of Pessy, Psych Engine's mascot.
